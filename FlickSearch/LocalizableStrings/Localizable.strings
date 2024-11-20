@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  FlickSearch
+
+  Created by Dileep Vasa on 11/19/24.
+  
+*/
+
+"search_placeholder" = "Search for images...";
+"enter_search_term" = "Enter a search term";
+"loading_message" = "Loading...";
+"error_message_prefix" = "Error: ";
+"flickr_search_title" = "Flickr Search";
+"author_label" = "Author";
+"published_on" = "Published on";
+"dimensions_label" = "Dimensions";
